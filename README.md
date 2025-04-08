@@ -21,3 +21,9 @@ Turn your words into art with the power of **AI and Stable Diffusion**. This pro
 - CUDA for GPU acceleration
 
 ---
+
+## 🔍 Sample Prompts & Outputs
+
+ - A serene lake surrounded by snow-capped mountains at sunset
+ - A futuristic astronaut exploring ancient ruins on Mars
+   
